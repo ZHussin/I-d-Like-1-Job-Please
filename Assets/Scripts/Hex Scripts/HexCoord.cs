@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class HexCoord
 {
+    private const float Cos30Deg = .8660254037f;
     public int x;
     public int y;
 
